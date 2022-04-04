@@ -52,7 +52,7 @@ export default {
           })
     },
     getAge() {
-      let date = this.user.date_of_birth.split('-')
+      let date = this.user.date_of_birth.split('-').join('/')
       date = Math.floor((new Date().getTime() - new Date(date)) / (24 * 3600 * 365.25 * 1000))
       return date
     }
