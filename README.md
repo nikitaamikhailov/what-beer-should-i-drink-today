@@ -1,7 +1,7 @@
 # what-beer-should-i-drink-today
 ```
 Это web-приложение создается по тестовому заданию компании "ООО Банда умников"
-Рабочая страница находится по ссылке: [https://nikita.mihailov.spb.ru/projects/what-beer-should-i-drink-today/](https://nikita.mihailov.spb.ru/projects/what-beer-should-i-drink-today/)
+Рабочая страница находится по [ссылке](https://nikita.mihailov.spb.ru/projects/what-beer-should-i-drink-today/)
 ```
 ## Project setup
 ```
